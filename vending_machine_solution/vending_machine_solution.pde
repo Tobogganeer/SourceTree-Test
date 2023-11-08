@@ -2,16 +2,16 @@
 //name them in capital letters so you know they're constant
 //and their values won't change (be assigned new values)
 color GREEN = color(40, 160, 0);
-color DARK_GREEN = color(0, 120, 50);
+color DARK_GREEN = color(0, 120, 0);
 color BLUE = color(42, 155, 245);
 color DARK_BLUE = color(2, 115, 190);
-color YELLOW = color(255, 243, 5);
+color YELLOW = color(255, 0, 5);
 color DARK_YELLOW = color(215, 203, 0);
 color RED = color(255, 5, 68);
-color DARK_RED = color(215, 0, 28);
+color DARK_RED = color(215, 0, 0);
 color INSIDE = color(255, 188, 0); //orange
 color SHELF = color(164, 132, 167); //purple-grey
-color OUTSIDE = color(200); //grey
+color OUTSIDE = color(190); //grey
 float CAN_SPAWN_X = 250; //x value of spawn point for cans
 float CAN_SPAWN_Y = 750; //and y value
 
