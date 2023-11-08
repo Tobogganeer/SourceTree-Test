@@ -4,7 +4,7 @@
 color GREEN = color(40, 160, 0);
 color DARK_GREEN = color(0, 120, 50);
 color BLUE = color(42, 155, 245);
-color DARK_BLUE = color(2, 115, 205);
+color DARK_BLUE = color(2, 115, 190);
 color YELLOW = color(255, 243, 5);
 color DARK_YELLOW = color(215, 203, 0);
 color RED = color(255, 5, 68);
